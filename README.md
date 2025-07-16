@@ -37,7 +37,7 @@ Let's connect and build something amazing together!
 
 - 🌐 **Portfolio**: [https://ashokkumarsoliyappan.github.io/Ashok.github.io](https://ashokkumarsoliyappan.github.io/Ashok.github.io)
 - 💻 **GitHub**: [https://github.com/ashokkumarsoliyappan](https://github.com/ashokkumarsoliyappan)
-- 🔗 **LinkedIn**: [undefined](undefined)
+- 🔗 **LinkedIn**: [https://linkedin.com/in/ashokkumarsoliyappan]
 
 ---
 
